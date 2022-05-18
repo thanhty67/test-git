@@ -17,11 +17,13 @@ import animalv2.tool.Utils;
  */
 public class Using1 {
 
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String  args []) {
         // TODO code application logic here
+        System.out.println("-----------------");
         System.out.println("Animal V2.");
         int choice;
         Menu menu = new Menu("----The Zoo Mangement----");
